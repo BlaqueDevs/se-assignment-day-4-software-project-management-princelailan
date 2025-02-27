@@ -202,27 +202,22 @@ Inconclusion:Its easy, effective, safe, and helpful for both patients and doctor
 
 It's has a successful future:
   It's  Fast growing:
-  
     More and more people are using telemedicine.
     The market is getting much bigger every year.
     
   Huge numbers:
-    The market is already worth billions of dollars.
-    
+    The market is already worth billions of dollars.    
     It's expected to be worth many more billions in the next few years.
     
 Why It's Growing:
   Easy Healthcare:
-  
     People can see doctors from home.
     This is great for people who live far away or are busy.
   Tech is Better:
     Video calls and online tools are getting better.
-    
     This makes telemedicine easier and more reliable.
   More People Need Care:
     More people have long-term health problems.
-    
     Telemedicine helps them get regular care.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
